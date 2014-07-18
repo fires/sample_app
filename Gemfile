@@ -28,6 +28,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '1.0.2'
+# Use rubysl-securerandom
+gem 'rubysl-securerandom', '~> 2.0.0'
 
 group :doc do
 	gem 'sdoc', '0.3.20', require:false
