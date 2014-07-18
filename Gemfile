@@ -30,6 +30,7 @@ gem 'turbolinks'
 gem 'jbuilder', '1.0.2'
 # Use rubysl-securerandom
 gem 'rubysl-securerandom', '~> 2.0.0'
+gem 'mini_portile', '0.6.0'
 
 group :doc do
 	gem 'sdoc', '0.3.20', require:false
